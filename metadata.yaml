@@ -1,0 +1,41 @@
+_repo: Petersburg_39919
+_version: 0.1.0
+alternative_title: Peterburg. German
+contributor:
+  translator:
+    agent_name: Strasser, Nadja
+    gutenberg_agent_id: '40303'
+    url: http://www.gutenberg.org/2009/agents/40303
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bely, Andrey
+    aliases:
+    - Bugaev, Boris Nikolaevich
+    - Белый, Андрей
+    - Бугаев, Борис Николаевич
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '40302'
+    url: http://www.gutenberg.org/2009/agents/40302
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39919'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- Revolution, 1905-1907 -- Fiction'
+- !lcsh 'Russian fiction -- Translations into German'
+- !lcc 'PG'
+- !lcsh 'Historical fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Saint Petersburg (Russia) -- Fiction'
+title: Petersburg
+url: http://www.gutenberg.org/ebooks/39919
