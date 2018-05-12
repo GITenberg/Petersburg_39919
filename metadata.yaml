@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '40302'
     url: http://www.gutenberg.org/2009/agents/40302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39919#Petersburg
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-06-05'
 gutenberg_type: Text
